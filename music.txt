@@ -1,0 +1,5 @@
+body>
+
+    <audio id="bgMusic" loop preload="auto">
+        <source src="c:\Users\k9838\Downloads\ssstik.io_1791208039601.mp3" type="audio/mpeg">
+        Your browser does not support audio.
